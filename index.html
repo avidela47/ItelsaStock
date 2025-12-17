@@ -10,11 +10,13 @@
 </head>
 <body>
   <div class="app-container">
-  <img src="logo.png" alt="Logo de Itelsa" class="app-logo" />
-  <p class="app-subtitle">
-    <span class="subtitle-icon" aria-hidden="true">✦</span>
-    <span class="subtitle-text">Catálogo con Stock Disponible</span>
-  </p>
+    <header class="app-header">
+      <img src="logo.png" alt="Logo de Itelsa" class="app-logo" />
+      <p class="app-subtitle">
+        <span class="subtitle-icon" aria-hidden="true">✦</span>
+        <span class="subtitle-text">Catálogo con Stock Disponible</span>
+      </p>
+    </header>
 
     <div class="panel" id="data-panel">
       <div class="data-status" id="data-status" style="display:none;">
@@ -32,7 +34,7 @@
       </label>
 
       <div id="file-info" class="file-info">
-        Ningún archivo cargado.
+        Cargando datos...
       </div>
 
       <div class="data-actions" id="data-actions" style="display:none;">
@@ -51,6 +53,15 @@
             </svg>
           </span>
           <span class="btn-label">Cambiar / actualizar datos</span>
+        </button>
+
+        <button id="view-json-btn" type="button" class="secondary-btn">
+          <span class="btn-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" role="presentation" focusable="false">
+              <path d="M7 4h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm0 2v12h10V6H7zm2 2h6v2H9V8zm0 4h6v2H9v-2z" fill="currentColor" />
+            </svg>
+          </span>
+          <span class="btn-label">Ver JSON</span>
         </button>
       </div>
 
@@ -102,6 +113,17 @@
         <thead id="table-head"></thead>
         <tbody id="table-body"></tbody>
       </table>
+    </div>
+  </div>
+
+  <div class="modal" id="json-modal" aria-hidden="true">
+    <div class="modal-overlay" data-close="true"></div>
+    <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="json-modal-title">
+      <div class="modal-header">
+        <h2 id="json-modal-title">JSON de stock</h2>
+        <button type="button" class="modal-close" id="json-close-btn" aria-label="Cerrar">×</button>
+      </div>
+      <pre class="json-pre" id="json-pre">Cargando...</pre>
     </div>
   </div>
 

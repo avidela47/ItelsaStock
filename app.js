@@ -16,6 +16,11 @@ const dataPanel = document.getElementById("data-panel");
 const dataActions = document.getElementById("data-actions");
 const changeDataBtn = document.getElementById("change-data-btn");
 const reloadJsonBtn = document.getElementById("reload-json-btn");
+const viewJsonBtn = document.getElementById("view-json-btn");
+
+const jsonModal = document.getElementById("json-modal");
+const jsonPre = document.getElementById("json-pre");
+const jsonCloseBtn = document.getElementById("json-close-btn");
 
 const dataStatus = document.getElementById("data-status");
 const statusBadge = document.getElementById("status-badge");
@@ -33,6 +38,33 @@ function setDataStatus(kind, text) {
   } else {
     statusBadge.textContent = "Modo Excel";
     statusBadge.classList.remove("is-success");
+  }
+}
+
+function openJsonModal() {
+  if (!jsonModal) return;
+  jsonModal.classList.add("is-open");
+  jsonModal.setAttribute("aria-hidden", "false");
+}
+
+function closeJsonModal() {
+  if (!jsonModal) return;
+  jsonModal.classList.remove("is-open");
+  jsonModal.setAttribute("aria-hidden", "true");
+}
+
+async function showJsonViewer() {
+  if (!jsonPre) return;
+  openJsonModal();
+
+  try {
+    jsonPre.textContent = "Cargando...";
+    const response = await fetch("data/stock-data.json", { cache: "no-store" });
+    if (!response.ok) throw new Error(`Status ${response.status}`);
+    const payload = await response.json();
+    jsonPre.textContent = JSON.stringify(payload, null, 2);
+  } catch (error) {
+    jsonPre.textContent = `No se pudo cargar el JSON.\n\n${String(error)}`;
   }
 }
 
@@ -131,7 +163,7 @@ if (changeDataBtn) {
     if (fileInput) fileInput.value = "";
     if (dataPanel) dataPanel.classList.remove("data-loaded");
     if (dataActions) dataActions.style.display = "none";
-    fileInfo.textContent = "Subí un Excel para actualizar los datos.";
+    fileInfo.textContent = "Subí un Excel para reemplazar los datos.";
     setDataStatus("excel", "Cargá un Excel para reemplazar los datos precargados.");
   });
 }
@@ -142,6 +174,27 @@ if (reloadJsonBtn) {
     loadDataFromJson();
   });
 }
+
+if (viewJsonBtn) {
+  viewJsonBtn.addEventListener("click", showJsonViewer);
+}
+
+if (jsonCloseBtn) {
+  jsonCloseBtn.addEventListener("click", closeJsonModal);
+}
+
+if (jsonModal) {
+  jsonModal.addEventListener("click", (event) => {
+    const target = event.target;
+    if (target && target.getAttribute && target.getAttribute("data-close") === "true") {
+      closeJsonModal();
+    }
+  });
+}
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape") closeJsonModal();
+});
 
 loadDataFromJson();
 
@@ -215,7 +268,7 @@ async function loadDataFromJson() {
     }
   } catch (error) {
     console.warn("No se pudo cargar data/stock-data.json", error);
-    fileInfo.textContent = "No se pudo cargar el JSON remoto. Podés subir un Excel manualmente.";
+    fileInfo.textContent = "No se pudo precargar el JSON. Podés subir un Excel manualmente.";
     setDataStatus("excel", "No se pudo precargar el JSON. Usá la carga manual.");
   }
 }
