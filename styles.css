@@ -519,6 +519,7 @@ button {
 .code-card-actions {
   margin-top: 14px;
   display: flex;
+  justify-content: center;
   gap: 10px;
   flex-wrap: wrap;
 }
