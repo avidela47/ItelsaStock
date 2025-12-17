@@ -448,6 +448,7 @@ function handleSearchByCode() {
       waBtn.href = waLink;
       waBtn.target = "_blank";
       waBtn.rel = "noopener noreferrer";
+      waBtn.setAttribute("aria-label", "Enviar por WhatsApp");
       waBtn.innerHTML = `
         <span class="btn-icon" aria-hidden="true">
           <svg viewBox="0 0 24 24" role="presentation" focusable="false">
