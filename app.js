@@ -402,7 +402,10 @@ function handleSearchByCode() {
 
   const title = document.createElement("div");
   title.className = "code-card-title";
-  title.textContent = `Resultado para CODIGO: ${item["CODIGO"]}`;
+  title.innerHTML = `
+    <span class="code-card-title-label">Resultado para CODIGO:</span>
+    <span class="code-card-code">${String(item["CODIGO"] ?? "")}<\/span>
+  `;
   card.appendChild(title);
 
   // Si querés mostrar solo CODIGO, STOCK, PRECIO, podrías hacerlo explícito.
