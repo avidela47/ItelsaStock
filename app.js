@@ -26,6 +26,20 @@ const dataStatus = document.getElementById("data-status");
 const statusBadge = document.getElementById("status-badge");
 const statusText = document.getElementById("status-text");
 
+const DEFAULT_WHATSAPP_NUMBER = "5493512890110";
+
+function normalizeWhatsAppNumber(raw) {
+  const digits = String(raw || "").replace(/\D/g, "");
+  return digits;
+}
+
+function buildWhatsAppLink(numberDigits, message) {
+  const digits = normalizeWhatsAppNumber(numberDigits);
+  if (!digits) return null;
+  const encoded = encodeURIComponent(message || "");
+  return `https://wa.me/${digits}?text=${encoded}`;
+}
+
 function setDataStatus(kind, text) {
   if (!dataStatus || !statusBadge || !statusText) return;
 
@@ -410,6 +424,43 @@ function handleSearchByCode() {
     row.appendChild(valueSpan);
     card.appendChild(row);
   });
+
+  // Acción rápida: enviar por WhatsApp (solo si existe el registro)
+  const waNumber = DEFAULT_WHATSAPP_NUMBER;
+  const stockValue = item["STOCK"] ?? "";
+  const priceValue = formatPriceValue(item[PRICE_KEY] ?? item["PRECIO"]);
+  const messageLines = [
+    `Consulta de stock`,
+    `CODIGO: ${item["CODIGO"]}`,
+    stockValue !== "" ? `STOCK: ${stockValue}` : null,
+    priceValue ? `PRECIO: ${priceValue}` : null,
+  ].filter(Boolean);
+  const message = messageLines.join("\n");
+
+  if (waNumber) {
+    const waLink = buildWhatsAppLink(waNumber, message);
+    if (waLink) {
+      const actions = document.createElement("div");
+      actions.className = "code-card-actions";
+
+      const waBtn = document.createElement("a");
+      waBtn.className = "whatsapp-btn";
+      waBtn.href = waLink;
+      waBtn.target = "_blank";
+      waBtn.rel = "noopener noreferrer";
+      waBtn.innerHTML = `
+        <span class="btn-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" role="presentation" focusable="false">
+            <path d="M12 2a10 10 0 0 0-8.66 15.02L2 22l5.11-1.31A10 10 0 1 0 12 2zm0 18.1c-1.56 0-3.06-.41-4.39-1.19l-.31-.18-3.03.78.8-2.95-.2-.3A8.1 8.1 0 1 1 12 20.1zm4.53-5.86c-.25-.13-1.48-.73-1.71-.82-.23-.08-.4-.13-.57.13-.17.25-.65.82-.8.99-.15.17-.3.19-.55.06-.25-.13-1.05-.39-2-1.24-.74-.66-1.24-1.48-1.39-1.73-.15-.25-.02-.38.11-.51.11-.11.25-.3.37-.45.13-.15.17-.25.25-.42.08-.17.04-.32-.02-.45-.06-.13-.57-1.37-.78-1.88-.2-.48-.41-.42-.57-.42h-.48c-.17 0-.45.06-.68.32-.23.25-.9.88-.9 2.14 0 1.26.92 2.48 1.05 2.65.13.17 1.81 2.77 4.38 3.88.61.26 1.08.42 1.45.54.61.19 1.17.16 1.61.1.49-.07 1.48-.6 1.69-1.18.21-.58.21-1.07.15-1.18-.06-.11-.23-.17-.48-.3z" fill="currentColor" />
+          </svg>
+        </span>
+        <span class="btn-label">Enviar a WhatsApp</span>
+      `;
+
+      actions.appendChild(waBtn);
+      card.appendChild(actions);
+    }
+  }
 
   codeResult.appendChild(card);
 }
