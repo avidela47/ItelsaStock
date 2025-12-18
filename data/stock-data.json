@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2025-12-17T11:53:42.660Z",
-  "total": 579,
+  "updatedAt": "2025-12-18T18:47:52.224Z",
+  "total": 581,
   "rows": [
     {
       "CODIGO": "08FA3A5Z",
@@ -2479,6 +2479,11 @@
     },
     {
       "CODIGO": "V2R-1200CDP",
+      "STOCK": 2,
+      "PRECIO": 1
+    },
+    {
+      "CODIGO": "V2R-1200DN",
       "STOCK": 3,
       "PRECIO": 1
     },
@@ -2489,7 +2494,7 @@
     },
     {
       "CODIGO": "V2R-1200N",
-      "STOCK": 3,
+      "STOCK": "s/e",
       "PRECIO": 1
     },
     {
@@ -2529,6 +2534,11 @@
     },
     {
       "CODIGO": "VD-130T",
+      "STOCK": 1,
+      "PRECIO": 1
+    },
+    {
+      "CODIGO": "VD-250P",
       "STOCK": 1,
       "PRECIO": 1
     },
