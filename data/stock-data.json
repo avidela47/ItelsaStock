@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-18T18:47:52.224Z",
+  "updatedAt": "2025-12-22T19:19:49.111Z",
   "total": 581,
   "rows": [
     {
@@ -99,7 +99,7 @@
     },
     {
       "CODIGO": "12FD4B5Z",
-      "STOCK": 29,
+      "STOCK": 27,
       "PRECIO": 1
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "CODIGO": "12MC4000",
-      "STOCK": 17,
+      "STOCK": 15,
       "PRECIO": 1
     },
     {
@@ -399,7 +399,7 @@
     },
     {
       "CODIGO": "C2DM-80CP",
-      "STOCK": 5,
+      "STOCK": 4,
       "PRECIO": 1
     },
     {
@@ -974,7 +974,7 @@
     },
     {
       "CODIGO": "EDR-75-24",
-      "STOCK": 1,
+      "STOCK": "s/e",
       "PRECIO": 1
     },
     {
@@ -2084,7 +2084,7 @@
     },
     {
       "CODIGO": "NDR-75-24",
-      "STOCK": 2,
+      "STOCK": 1,
       "PRECIO": 1
     },
     {
