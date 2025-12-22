@@ -261,14 +261,24 @@ function handleFile(event) {
 
 async function loadDataFromJson() {
   try {
-    const response = await fetch("data/stock-data.json", { cache: "no-store" });
+    // Cache-busting: en algunos entornos/CDNs el cache del navegador/proxy puede interferir.
+    // Con este query param garantizamos que el fetch pida la versión más reciente.
+    const jsonUrl = `data/stock-data.json?v=${Date.now()}`;
+    const response = await fetch(jsonUrl, { cache: "no-store" });
     if (!response.ok) {
       throw new Error(`Status ${response.status}`);
     }
     const payload = await response.json();
     const rows = Array.isArray(payload.rows) ? payload.rows : [];
     const updatedLabel = payload.updatedAt
-      ? new Date(payload.updatedAt).toLocaleString("es-AR")
+      ? new Date(payload.updatedAt).toLocaleString("es-AR", {
+          timeZone: "America/Argentina/Cordoba",
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit",
+          hour: "2-digit",
+          minute: "2-digit",
+        })
       : null;
     const suffix = updatedLabel ? ` • Actualizado: ${updatedLabel}` : "";
     const infoText = `Datos precargados (${rows.length} filas)${suffix}`;
