@@ -443,7 +443,7 @@ function handleSearchByCode() {
   const stockValue = item["STOCK"] ?? "";
   const priceValue = formatPriceValue(item[PRICE_KEY] ?? item["PRECIO"]);
   const messageLines = [
-    `Hola Ariel, cotizame {cantidad} de este producto para {cliente}`,
+  `Hola Ariel, cotizame CANTIDAD: ____ de este producto para CLIENTE: ____`,
     `CODIGO: ${item["CODIGO"]}`,
     stockValue !== "" ? `STOCK: ${stockValue}` : null,
     priceValue ? `PRECIO: ${priceValue}` : null,
