@@ -86,6 +86,8 @@ const tableHead = document.getElementById("table-head");
 const tableBody = document.getElementById("table-body");
 
 const PRICE_KEY = "PRECIO";
+const COST_KEY = "COSTO";
+const SALE_KEY = "VENTA";
 const currencyFormatter = new Intl.NumberFormat("es-AR", {
   minimumFractionDigits: 2,
   maximumFractionDigits: 2,
@@ -344,8 +346,10 @@ function renderTable(rowsJson) {
       const td = document.createElement("td");
       const cellValue = rowObj[headerKey];
       const normalizedKey = headerKey.trim().toUpperCase();
-      const displayValue =
-        normalizedKey === PRICE_KEY ? formatPriceValue(cellValue) : cellValue ?? "";
+      let displayValue = cellValue ?? "";
+      if ([PRICE_KEY, COST_KEY, SALE_KEY].includes(normalizedKey)) {
+        displayValue = formatPriceValue(cellValue);
+      }
       td.textContent = displayValue;
       tr.appendChild(td);
     });
@@ -431,8 +435,11 @@ function handleSearchByCode() {
     const valueSpan = document.createElement("span");
     const normalizedKey = key.trim().toUpperCase();
     const rawValue = item[key];
-    valueSpan.textContent =
-      normalizedKey === PRICE_KEY ? formatPriceValue(rawValue) : rawValue ?? "";
+    if ([PRICE_KEY, COST_KEY, SALE_KEY].includes(normalizedKey)) {
+      valueSpan.textContent = formatPriceValue(rawValue);
+    } else {
+      valueSpan.textContent = rawValue ?? "";
+    }
 
     row.appendChild(labelSpan);
     row.appendChild(valueSpan);
