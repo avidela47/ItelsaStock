@@ -1,2911 +1,3492 @@
 {
-  "updatedAt": "2025-12-24T12:35:32.308Z",
+  "updatedAt": "2025-12-29T14:46:24.695Z",
   "total": 581,
   "rows": [
     {
       "CODIGO": "08FA3A5Z",
       "STOCK": 13,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "08FA3N3Z",
       "STOCK": 32,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "08FA3N5Z",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "08FA4A5Z",
       "STOCK": 13,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "08FC-4000-S",
       "STOCK": 11,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "08FD3A5Z",
       "STOCK": 13,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "08FD4A10",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "08FD4A3Z",
       "STOCK": 21,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "08FD4B5Z",
       "STOCK": 13,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "08FD4N5Z",
       "STOCK": 15,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "08MC3000-S",
       "STOCK": 15,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "08MC4000-S",
       "STOCK": 29,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12FA4A3Z",
       "STOCK": 16,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12FA4A5Z",
       "STOCK": 20,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12FA4B5Z",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12FA4L3Z",
       "STOCK": 19,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12FB5000",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12FC4000",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12FC5000",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12FD4B5Z",
       "STOCK": 27,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12FD5L5Z",
       "STOCK": 20,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12MB4000",
       "STOCK": 37,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12MB5000",
       "STOCK": 15,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12MC4000",
       "STOCK": 15,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "12MC5000",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "4X0,35MM2",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "800XU",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "APC-35-500",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "APV-12-12",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "APV-16-24",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "APV-25-12",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "APV-35-12",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "AT11DN",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "AT11EN",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "AT8N",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "AX30/4609KS",
       "STOCK": 18,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BCL 8 SM 102",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BFCA5-PD0M",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BFCNP4PM",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-2V100CP",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-2V100N",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-2V100P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-2V50CP",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-2V50P",
       "STOCK": 13,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-30CP",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-30P",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-3JS0SCP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-CM30P",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-CP30P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-DL10TCP( E )",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-DL70CP( E )",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-S08CN",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-S08P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-V200T",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-Y8N",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-Y8P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-Z10CP",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-Z10N",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-Z10P",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-Z30CP",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-Z30N",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-ZL10CP",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-ZL10P",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-ZL30CP",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-ZL30N",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BGS-ZM30P",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BH1M-DDT",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BHM-PDT",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BRDS12X/4328KJ",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BRF-N",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BRF-P",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "BT-2MF",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C1C1B1808P03A2",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C1C1B1808PS4A2",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DM-11N",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DM-11P",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DM-40CN",
       "STOCK": 14,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DM-40CP",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DM-80CN",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DM-80CP",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DM-80P",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DP-11N",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DP-11P",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DP-40CN",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DP-40CP",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DP-40N",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DP-80CP",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2DP-80P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2RM-F400CN",
       "STOCK": 12,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2RM-F400CP",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2RM-F400P",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2RP-F400CP",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2RP-F400N",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2RP-F400P",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2RP-SF400CP",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2TM-2000CN",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2TM-2000CP",
       "STOCK": 12,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2TM-2000P",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "C2TP-2000N",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CDD-100N-IR",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CDD-100P-IR",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CDD-100P-R",
       "STOCK": 15,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CDD-11N-IR",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CDD-11P-IR",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CDD-40CN",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CDD-40P-IR",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CEN-60-36",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CEN-75-30",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CM18-3005PA",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CRD-300P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CRDF-100N",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CS AR-05V024",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CS AT-02V024",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CS-PT100",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CS-PT300",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CT4S-1P2",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CT4S-2P2",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CT6-2P",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CT6M-1P2",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CTD-1500CP",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CTD-1500N",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CTD-2500N-IR",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "CTD-2500P-IR",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "D1RF-T",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "D2GF-TP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "D2RF-TAP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "D2SA-MP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "D3RF-TDP",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "D3WF-TP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DCA12/4609KT",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DCA80B/5829KS",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DDR-60L-24",
       "STOCK": 30,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DM-18TN",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DM-18TP",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DR-500P( E )",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DR-60-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DR-Q150TP (E )",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DRA-60-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DRT-240-24",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DRT-480-24",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DS-100",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DSD-100",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DSR-200",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "DSR-800",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1BAC11",
       "STOCK": 54,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1F1A2V1",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1ILA210",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1ILA310",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1ILA410",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1ILA510",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1ILA610",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PEBZ4531",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PERZ4531",
       "STOCK": 28,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PL253210",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PL254210",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PL2R3210",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PL2R4210",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PU1R5210",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PU2F1410",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PU2R1210",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PU2R3210",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PU2R4210",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PU2R5210",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1PU2R6210",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1SC2ACA11AA",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1SE12ACA11AB",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1SE12AVA11AB",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1SE12EVA11AB",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1SE13ACE11AB",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 1SE13GCE11AB",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 CF01G2V1",
       "STOCK": 49,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 CF10G2V1",
       "STOCK": 41,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 CP01G2V1",
       "STOCK": 72,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 CP10G2V1",
       "STOCK": 34,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LF1A3V1",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LF1A4V1",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LF1A6V1",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LP1A2V1",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LP1A3V1",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LP1A4V1",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LP1A6V1",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LP1A8V1",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LP3A8V1",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LP4A2V1",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LP4A3V1",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LP4A4V1",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LP4A6V1",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E2 LPAA8V1",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E40S6-100-3-T-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E40S6-1000-3-T-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E40S6-2500-3-T-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "E40S6-360-3-T-24",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "EDR-120-24",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "EDR-75-12",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "EDR-75-24",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "EL-30PL",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ELG-200-C1400D2",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ELG-75-48B",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ES 31000",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ES 31001",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ES 33000",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ES 36000",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 1883",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 2038-M2T2",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 2078",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 2084",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 2093",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 2099",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 2293",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 235",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 508",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 510",
       "STOCK": 13,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 515",
       "STOCK": 22,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 520-M2",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 535",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 536",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 538",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FD 883",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FG 60PD1E0A",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FL 1505",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FL 2078",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FL 2193-F8",
       "STOCK": 18,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FL 2202",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FL 502",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FL 515",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FL 551",
       "STOCK": 14,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FM 1131",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FM 2001-WR",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FM 505",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FM 508",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FM 538",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FR 1896",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FR 207",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FR 2099",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FR 550",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FR 576",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FR 693",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FR 693-D2",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FS 1896D024",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FS 2896E024",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FS 2898D024",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FT 328I.3/4P-M12P1",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FW 2092-M2",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "FX 9C2",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "GS04B/N.1-80-M8.3",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "GS04B/P.1-80-M8.3",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "GS04M/N-80-S8",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "HC AA",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "HDR-15-5",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "HLG-320H-54B",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "HP AA050F-2PN",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "HRTR 55/66,200-S12",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IEC 60947-5-1",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IPRK 95/44L.2",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-04-A1-03",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-05-A1-03",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-A1-03",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-A1-S2",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-A2-S2",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-A3-03",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-A4-03",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-C1-03",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-G1-03",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-G1-S1",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-G1-S2",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-G3-03",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-H1-03",
       "STOCK": 50,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-H1-S1",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-08-H1-S2",
       "STOCK": 18,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-A1-03",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-A1-S2",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-A15-03",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-A2-S2",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-A20-03",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-A3-03",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-A3-S2",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-A9-03",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-A9-S2",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-C1-03",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-C1-S2",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-C4-03",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-C7-03",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-E0-S2",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-E7-S2",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-E8-03",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-E9-03",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-G5-03",
       "STOCK": 11,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-G5-S2",
       "STOCK": 13,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-G6-S2",
       "STOCK": 39,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-H5-03",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-H5-S2",
       "STOCK": 18,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-H6-03",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-H6-S2",
       "STOCK": 29,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-12-H9-03",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-A1-03",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-A1-S2",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-A15-03",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-A15-S2",
       "STOCK": 20,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-A20-03",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-A3-03",
       "STOCK": 16,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-A9-S2",
       "STOCK": 14,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-C1-03",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-C1-S2",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-G5-03",
       "STOCK": 14,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-G5-S2",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-G6-03",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-H5-03",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-H5-S2",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-18-H6-03",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-A1-03",
       "STOCK": 16,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-A1-S2",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-A15-03",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-A7-03",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-A9-03",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-A9-S2",
       "STOCK": 12,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-E7-03",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-E9-03",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-G5-03",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-G5-S2",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-G6-03",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-H5-03",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-H5-S2",
       "STOCK": 12,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-30-H6-03",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-40-X5-S2",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS-40-Y5-S3",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS104",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS13K",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS29DK1",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "IS34K",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ISI31KS",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ISM01DK",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ISM03",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ISM05",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ISP04",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "JD-HR80CP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "JD-HR80P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "JD-SR80CP",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "JD-SR80P",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "JD-SW08CN",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "JD-SW08CP",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "JR-H300P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "JT-S1000CPR",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "KD-40P",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "KR-250P",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "KR-Q150PW",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "KR-Q50CNW",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "KR-Q50CPW",
       "STOCK": 14,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "KR-Q50NW",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "KR-Q50PW",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 93.7,
+      "VENTA": 140.55
     },
     {
       "CODIGO": "LE8N-BF",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LF1A2V1",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LM12-3002PAT",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LPC-20-700",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LPC-35-1050",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LPC-35-700",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LPV-100-12",
       "STOCK": 56,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LPV-100-24",
       "STOCK": 15,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LPV-150-12",
       "STOCK": 18,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LPV-20-12",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LPV-35-12",
       "STOCK": 26,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LPV-60-12",
       "STOCK": 41,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-100-12",
       "STOCK": 417,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-100-24",
       "STOCK": 191,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-100-5",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-150-12",
       "STOCK": 110,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-150-15",
       "STOCK": 12,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-150-24",
       "STOCK": 70,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-200-12",
       "STOCK": 30,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-200-24",
       "STOCK": 36,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-200-5",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-35-12",
       "STOCK": 97,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-35-24",
       "STOCK": 84,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-350-12",
       "STOCK": 69,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-350-24",
       "STOCK": 197,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-350-5",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-50-12",
       "STOCK": 62,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-50-24",
       "STOCK": 20,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-50-5",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-75-12",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "LRS-75-24",
       "STOCK": 215,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MAM-B070C",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MAP-0240",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MDR-100-12",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MDR-100-24",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MDR-60-24",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MK V11D42",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MLC500T14-450",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MLC500T30-1050",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MLC500T30-450",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MLC500T30-600",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MLC500T30-750",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MLC510R14-450",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MLC510R30-450",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MLC510R30-600",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MLC510R30-750",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MLC530R30-1050",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MPZ-S6A",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MSG5-120-R",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MT42AL-RG",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MT4B1AL-B",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MT4B1AL-R",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MT4B3AL-RYG",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MT4W-DV-41",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MT4WDV41",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MT5B3AL-RYG",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MT5C2AL-RG",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "MT5C3AL-RYG",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NA B110AA-DN2",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NA B110BB-DN2",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NA B112KC-DN2",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NA B112LH-DN2",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NB B120BB-DN2",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NDR-240-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NDR-240-48",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NDR-480-24",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NDR-480-48",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NDR-75-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NES-100-12",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NES-100-18",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NES-100-24",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NES-15-12",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NES-15-24",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NES-200-24",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NES-25-12",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NES-25-15",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NES-350-24",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NES-50-5",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NET-75B",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NF-DA02",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NF-DK04",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NF-DT01",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NF-DV01",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NF-TA01",
       "STOCK": 15,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NF-TA02",
       "STOCK": 16,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NF-TB01",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "NP1-G38A3-M",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "P250F",
       "STOCK": 22,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "P8C1B1805U03A2",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "PCD-16-700B",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "PRK 18/24DL.46",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "PRK 18B-T2/4P-M12",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "PRK 25C.D1/4P-M12",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "PRK 46C.1/4P-M12",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "PSN17-SDP",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "R10",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "R5",
       "STOCK": 15,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RCA06-MM",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RDN01-MM",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RS-15-12",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RS-150-12",
       "STOCK": 47,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RS-35-12",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RS-50-5",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RS-75-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RS-75-5",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RSP-1000-48",
       "STOCK": 48,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RSP-150-12",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RSP-1600-12",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RSP-1600-48",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RSP-200-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RSP-320-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RSP-500-24",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "RST24-MM",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "S48-8-1024ZT",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SA-80T-2A",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SD-25B-12",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SD-25B-5",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SD-25C-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SD-350B-24",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SD4R90-1200",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SD4T90-1200",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SDR-480P-48",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SE-600-12",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SE-600-24",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SM02",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SP-150-24",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SP-200-24",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SP-240-24",
       "STOCK": 64,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SR AD41AN2-A01N",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SR AL42ALK-A01N",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SR BD41AN2-G02F",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SR BD41ANZ-B02F",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SR BD42AN2-B01F",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SR21-IR",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "SR31",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ST-400CP",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ST-400N",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ST-400P",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "TK4S-14RR",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "TK4S-24RR",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "TKS-20X40",
       "STOCK": 12,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "TKS-30X50",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "TZ4H",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "TZ4ST-12R",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "TZN4W-24R",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V-61",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V2R-1200CDP",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V2R-1200DN",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V2R-1200DP",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V2R-1200N",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V2T-2000CDP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V2T-2000DP",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V2T-7000",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V2T-7000CDP",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V4R-1200",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V4R-1200P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "V4T-7000",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VD-130T",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VD-250P",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VD-300T",
       "STOCK": "s/e",
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF AF-CAS",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF AF-IF1GR03",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF AF-KT20M0",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF AF-MRS",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF AF-TRS",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KB1",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYD",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYD1",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYD2",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYD5",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYD6",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYD7",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYF",
       "STOCK": 14,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYF2",
       "STOCK": 18,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYF21",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYF22",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYF28",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYF3",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYF7",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF KEYF8",
       "STOCK": 18,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L31",
       "STOCK": 13,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L31-1T2",
       "STOCK": 14,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L31-R24",
       "STOCK": 29,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L35",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L35-R24",
       "STOCK": 9,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L35-R5",
       "STOCK": 22,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L36",
       "STOCK": 12,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L36-V",
       "STOCK": 15,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L51",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L52",
       "STOCK": 8,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L56",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF L56-1",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF LE31",
       "STOCK": 14,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF LE53",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF LE55",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VF PAP13C6N",
       "STOCK": 14,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VFCA5PD5M",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VN A00KC",
       "STOCK": 12,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VN A00KP",
       "STOCK": 7,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VR-1000T",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VR-800CP",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "VT-3000CP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "WIV-V180-T000",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "WIV-V180-T110",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "XSP4006SK",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "YD-15N",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "YD-15P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "YD-L2CP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "YR-140CP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "YT-1180P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z2R-400CP3",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z2R-400CP4",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z2T-2000P",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z3D-100CP4",
       "STOCK": 15,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z3D-100N",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z3D-100P",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z3R-400CP4",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z3R-400P",
       "STOCK": 14,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z3R-Q200CP4",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z3T-2500CN4",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z3T-2500CP4",
       "STOCK": 5,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z3T-2500N",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "Z3T-2500P",
       "STOCK": 16,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ZD-70CP",
       "STOCK": 2,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ZD-L40CP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ZR-L1000CP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ZR-L1000P",
       "STOCK": 3,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ZR-Q200P",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ZT-1200CP",
       "STOCK": 1,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ZT-L3000CP",
       "STOCK": 6,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ZT-L3000N",
       "STOCK": 10,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     },
     {
       "CODIGO": "ZT-L3000P",
       "STOCK": 4,
-      "PRECIO": 1
+      "COSTO": 1,
+      "VENTA": 1
     }
   ]
 }
