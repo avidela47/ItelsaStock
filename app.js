@@ -119,7 +119,8 @@ function formatPriceValue(value) {
   if (value === undefined || value === null || value === "") return "";
   const numericValue = parsePriceValue(value);
   if (numericValue === null) return String(value);
-  return `U$D ${currencyFormatter.format(numericValue)}`;
+  // Mostrar siempre el símbolo $ antes del valor
+  return `$ ${currencyFormatter.format(numericValue)}`;
 }
 
 // "Base de datos" en JSON (array de objetos)
