@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-29T17:06:51.619Z",
+  "updatedAt": "2025-12-29T17:11:29.328Z",
   "total": 581,
   "rows": [
     {
@@ -143,8 +143,8 @@
     {
       "CODIGO": "12MC4000",
       "STOCK": 13,
-      "COSTO": 1,
-      "VENTA": 1.5
+      "COSTO": 10,
+      "VENTA": 15
     },
     {
       "CODIGO": "12MC5000",
@@ -335,8 +335,8 @@
     {
       "CODIGO": "BGS-Y8P",
       "STOCK": "s/e",
-      "COSTO": 1,
-      "VENTA": 1.5
+      "COSTO": 65.33333333,
+      "VENTA": 98
     },
     {
       "CODIGO": "BGS-Z10CP",
