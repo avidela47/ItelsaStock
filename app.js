@@ -450,11 +450,15 @@ function handleSearchByCode() {
   const waNumber = DEFAULT_WHATSAPP_NUMBER;
   const stockValue = item["STOCK"] ?? "";
   const priceValue = formatPriceValue(item[PRICE_KEY] ?? item["PRECIO"]);
+  const costValue = formatPriceValue(item[COST_KEY] ?? item["COSTO"]);
+  const saleValue = formatPriceValue(item[SALE_KEY] ?? item["VENTA"]);
   const messageLines = [
-  `Hola Ariel, cotizame CANTIDAD: ____ de este producto para CLIENTE: ____`,
+    `Hola Ariel, cotizame CANTIDAD: ____ de este producto para CLIENTE: ____`,
     `CODIGO: ${item["CODIGO"]}`,
     stockValue !== "" ? `STOCK: ${stockValue}` : null,
     priceValue ? `PRECIO: ${priceValue}` : null,
+    costValue ? `COSTO: ${costValue}` : null,
+    saleValue ? `VENTA: ${saleValue}` : null,
   ].filter(Boolean);
   const message = messageLines.join("\n");
 
