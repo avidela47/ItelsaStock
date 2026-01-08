@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-08T15:05:01.349Z",
+  "updatedAt": "2026-01-08T17:38:43.471Z",
   "total": 583,
   "rows": [
     {
@@ -1349,13 +1349,13 @@
     {
       "CODIGO": "EDR-120-24",
       "STOCK": "s/e",
-      "COSTO": 53.02666667,
-      "VENTA": 79.54,
+      "COSTO": 53.33333333,
+      "VENTA": 80,
       "ORIGEN": "Remito"
     },
     {
       "CODIGO": "EDR-150-24",
-      "STOCK": 3,
+      "STOCK": 2,
       "COSTO": 60,
       "VENTA": 90,
       "ORIGEN": "Remito"
@@ -1370,8 +1370,8 @@
     {
       "CODIGO": "EDR-75-24",
       "STOCK": "s/e",
-      "COSTO": 1,
-      "VENTA": 1.5,
+      "COSTO": 46.66666667,
+      "VENTA": 70,
       "ORIGEN": ""
     },
     {
@@ -2700,8 +2700,8 @@
     {
       "CODIGO": "MDR-60-24",
       "STOCK": 2,
-      "COSTO": 80.06666667,
-      "VENTA": 120.1,
+      "COSTO": 43.33333333,
+      "VENTA": 65,
       "ORIGEN": "Remito"
     },
     {
