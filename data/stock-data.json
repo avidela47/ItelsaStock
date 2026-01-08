@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-01-05T13:24:34.873Z",
-  "total": 582,
+  "updatedAt": "2026-01-08T15:05:01.349Z",
+  "total": 583,
   "rows": [
     {
       "CODIGO": "08FA3A5Z",
@@ -96,9 +96,9 @@
     {
       "CODIGO": "12FA4A5Z",
       "STOCK": 20,
-      "COSTO": 1,
-      "VENTA": 1.5,
-      "ORIGEN": ""
+      "COSTO": 14.66666667,
+      "VENTA": 22,
+      "ORIGEN": "Remito"
     },
     {
       "CODIGO": "12FA4B5Z",
@@ -137,7 +137,7 @@
     },
     {
       "CODIGO": "12FD4B5Z",
-      "STOCK": 27,
+      "STOCK": 15,
       "COSTO": 13.65333333,
       "VENTA": 20.48,
       "ORIGEN": "Remito"
@@ -369,8 +369,8 @@
     {
       "CODIGO": "BGS-S08P",
       "STOCK": 2,
-      "COSTO": 68.62666667,
-      "VENTA": 102.94,
+      "COSTO": 76.66666667,
+      "VENTA": 115,
       "ORIGEN": "Remito"
     },
     {
@@ -397,8 +397,8 @@
     {
       "CODIGO": "BGS-Z10CP",
       "STOCK": 4,
-      "COSTO": 64.8,
-      "VENTA": 97.2,
+      "COSTO": 63.37,
+      "VENTA": 95.055,
       "ORIGEN": "Remito"
     },
     {
@@ -411,8 +411,8 @@
     {
       "CODIGO": "BGS-Z10P",
       "STOCK": 7,
-      "COSTO": 58.33333333,
-      "VENTA": 87.5,
+      "COSTO": 63.37,
+      "VENTA": 95.055,
       "ORIGEN": "Remito"
     },
     {
@@ -564,7 +564,7 @@
     },
     {
       "CODIGO": "C2DM-80P",
-      "STOCK": "s/e",
+      "STOCK": 5,
       "COSTO": 40,
       "VENTA": 60,
       "ORIGEN": "Remito"
@@ -642,8 +642,8 @@
     {
       "CODIGO": "C2RP-F400CP",
       "STOCK": 5,
-      "COSTO": 37.71333333,
-      "VENTA": 56.57,
+      "COSTO": 42,
+      "VENTA": 63,
       "ORIGEN": "Remito"
     },
     {
@@ -1354,6 +1354,13 @@
       "ORIGEN": "Remito"
     },
     {
+      "CODIGO": "EDR-150-24",
+      "STOCK": 3,
+      "COSTO": 60,
+      "VENTA": 90,
+      "ORIGEN": "Remito"
+    },
+    {
       "CODIGO": "EDR-75-12",
       "STOCK": 3,
       "COSTO": 1,
@@ -1517,9 +1524,9 @@
     {
       "CODIGO": "FD 538",
       "STOCK": 5,
-      "COSTO": 1,
-      "VENTA": 1.5,
-      "ORIGEN": ""
+      "COSTO": 33.33333333,
+      "VENTA": 50,
+      "ORIGEN": "Remito"
     },
     {
       "CODIGO": "FD 883",
@@ -1853,9 +1860,9 @@
     {
       "CODIGO": "IS-08-G1-S2",
       "STOCK": 10,
-      "COSTO": 1,
-      "VENTA": 1.5,
-      "ORIGEN": ""
+      "COSTO": 55.33333333,
+      "VENTA": 83,
+      "ORIGEN": "Remito"
     },
     {
       "CODIGO": "IS-08-G3-03",
@@ -2440,9 +2447,9 @@
     },
     {
       "CODIGO": "KR-Q50PW",
-      "STOCK": 5,
-      "COSTO": 93.7,
-      "VENTA": 140.55,
+      "STOCK": 3,
+      "COSTO": 97.33333333,
+      "VENTA": 146,
       "ORIGEN": "Remito"
     },
     {
@@ -2615,7 +2622,7 @@
     },
     {
       "CODIGO": "LRS-350-24",
-      "STOCK": 197,
+      "STOCK": 196,
       "COSTO": 80.52,
       "VENTA": 120.78,
       "ORIGEN": "ML"
@@ -2861,8 +2868,8 @@
     {
       "CODIGO": "NA B110BB-DN2",
       "STOCK": 2,
-      "COSTO": 42,
-      "VENTA": 63,
+      "COSTO": 59,
+      "VENTA": 88.5,
       "ORIGEN": "Remito"
     },
     {
@@ -2896,8 +2903,8 @@
     {
       "CODIGO": "NDR-240-48",
       "STOCK": 4,
-      "COSTO": 144.7,
-      "VENTA": 217.05,
+      "COSTO": 83.33333333,
+      "VENTA": 125,
       "ORIGEN": "Remito"
     },
     {
@@ -3372,8 +3379,8 @@
     {
       "CODIGO": "SR BD41ANZ-B02F",
       "STOCK": 2,
-      "COSTO": 83.33333333,
-      "VENTA": 125,
+      "COSTO": 89.6,
+      "VENTA": 134.4,
       "ORIGEN": "Remito"
     },
     {
@@ -3708,9 +3715,9 @@
     {
       "CODIGO": "VF KEYF8",
       "STOCK": 18,
-      "COSTO": 1,
-      "VENTA": 1.5,
-      "ORIGEN": ""
+      "COSTO": 32.07,
+      "VENTA": 48.105,
+      "ORIGEN": "Remito"
     },
     {
       "CODIGO": "VF L31",
@@ -3729,9 +3736,9 @@
     {
       "CODIGO": "VF L31-R24",
       "STOCK": 29,
-      "COSTO": 1,
-      "VENTA": 1.5,
-      "ORIGEN": ""
+      "COSTO": 33.33333333,
+      "VENTA": 50,
+      "ORIGEN": "Remito"
     },
     {
       "CODIGO": "VF L35",
@@ -3932,9 +3939,9 @@
     {
       "CODIGO": "Z2R-400CP4",
       "STOCK": 1,
-      "COSTO": 1,
-      "VENTA": 1.5,
-      "ORIGEN": ""
+      "COSTO": 38,
+      "VENTA": 57,
+      "ORIGEN": "Remito"
     },
     {
       "CODIGO": "Z2T-2000P",
