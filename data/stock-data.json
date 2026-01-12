@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-08T17:38:43.471Z",
+  "updatedAt": "2026-01-12T12:15:04.444Z",
   "total": 583,
   "rows": [
     {
@@ -2650,7 +2650,7 @@
     },
     {
       "CODIGO": "LRS-50-5",
-      "STOCK": 3,
+      "STOCK": 1,
       "COSTO": 29.88,
       "VENTA": 44.82,
       "ORIGEN": "ML"
