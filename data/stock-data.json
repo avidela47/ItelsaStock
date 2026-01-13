@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-12T12:15:04.444Z",
+  "updatedAt": "2026-01-13T14:43:52.956Z",
   "total": 583,
   "rows": [
     {
@@ -3855,9 +3855,9 @@
     {
       "CODIGO": "VR-1000T",
       "STOCK": 2,
-      "COSTO": 1,
-      "VENTA": 1.5,
-      "ORIGEN": ""
+      "COSTO": 66.66666667,
+      "VENTA": 100,
+      "ORIGEN": "Ruben"
     },
     {
       "CODIGO": "VR-800CP",
