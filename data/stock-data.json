@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T14:50:07.810Z",
+  "updatedAt": "2026-01-15T15:21:55.189Z",
   "total": 583,
   "rows": [
     {
@@ -424,9 +424,9 @@
     },
     {
       "CODIGO": "BGS-Z30N",
-      "STOCK": 10,
-      "COSTO": 1,
-      "VENTA": 1.5,
+      "STOCK": 9,
+      "COSTO": 56,
+      "VENTA": 84,
       "ORIGEN": ""
     },
     {
