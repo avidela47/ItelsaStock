@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T13:45:44.340Z",
+  "updatedAt": "2026-01-15T14:50:07.810Z",
   "total": 583,
   "rows": [
     {
@@ -3854,7 +3854,7 @@
     },
     {
       "CODIGO": "VR-1000T",
-      "STOCK": 2,
+      "STOCK": 1,
       "COSTO": 66.66666667,
       "VENTA": 100,
       "ORIGEN": "Ruben"
