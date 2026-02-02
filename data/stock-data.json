@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T15:29:14.620Z",
+  "updatedAt": "2026-02-02T13:35:32.680Z",
   "total": 583,
   "rows": [
     {
@@ -1894,7 +1894,7 @@
     },
     {
       "CODIGO": "IS-12-A1-03",
-      "STOCK": 5,
+      "STOCK": 3,
       "COSTO": 29.17333333,
       "VENTA": 43.76,
       "ORIGEN": "Remito"
