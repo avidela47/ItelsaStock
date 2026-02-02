@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T13:35:32.680Z",
+  "updatedAt": "2026-02-02T17:14:14.164Z",
   "total": 583,
   "rows": [
     {
@@ -3546,9 +3546,9 @@
     },
     {
       "CODIGO": "V4R-1200P",
-      "STOCK": 2,
-      "COSTO": 1,
-      "VENTA": 1.5,
+      "STOCK": 1,
+      "COSTO": 58.66666667,
+      "VENTA": 88,
       "ORIGEN": ""
     },
     {
