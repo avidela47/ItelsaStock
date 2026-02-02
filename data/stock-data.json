@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T17:14:14.164Z",
+  "updatedAt": "2026-02-02T19:26:03.905Z",
   "total": 583,
   "rows": [
     {
@@ -3476,9 +3476,9 @@
     },
     {
       "CODIGO": "V-61",
-      "STOCK": 9,
-      "COSTO": 10.86,
-      "VENTA": 16.29,
+      "STOCK": 13,
+      "COSTO": 5.333333333,
+      "VENTA": 8,
       "ORIGEN": "Remito"
     },
     {
