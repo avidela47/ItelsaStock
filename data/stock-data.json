@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T19:26:03.905Z",
+  "updatedAt": "2026-02-03T16:49:09.073Z",
   "total": 583,
   "rows": [
     {
@@ -1362,7 +1362,7 @@
     },
     {
       "CODIGO": "EDR-75-12",
-      "STOCK": 2,
+      "STOCK": 1,
       "COSTO": 40,
       "VENTA": 60,
       "ORIGEN": ""
