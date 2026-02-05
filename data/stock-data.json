@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T19:49:52.463Z",
+  "updatedAt": "2026-02-05T16:31:42.366Z",
   "total": 583,
   "rows": [
     {
@@ -1341,9 +1341,9 @@
     },
     {
       "CODIGO": "E40S6-360-3-T-24",
-      "STOCK": 3,
+      "STOCK": 2,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 233,
       "ORIGEN": ""
     },
     {
