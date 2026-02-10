@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-06T15:05:29.623Z",
+  "updatedAt": "2026-02-10T18:26:17.733Z",
   "total": 583,
   "rows": [
     {
@@ -2547,7 +2547,7 @@
       "CODIGO": "LRS-100-24",
       "STOCK": 191,
       "COSTO": 37.08,
-      "VENTA": 55.62,
+      "VENTA": 52,
       "ORIGEN": "ML"
     },
     {
@@ -2896,8 +2896,8 @@
     {
       "CODIGO": "NDR-240-24",
       "STOCK": 1,
-      "COSTO": 74.48,
-      "VENTA": 111.72,
+      "COSTO": 80,
+      "VENTA": 120,
       "ORIGEN": "Remito"
     },
     {
@@ -2911,7 +2911,7 @@
       "CODIGO": "NDR-480-24",
       "STOCK": 2,
       "COSTO": 241.86,
-      "VENTA": 362.79,
+      "VENTA": 340,
       "ORIGEN": "ML"
     },
     {
