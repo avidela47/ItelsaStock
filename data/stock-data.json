@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T19:38:24.101Z",
+  "updatedAt": "2026-02-23T13:36:07.588Z",
   "total": 583,
   "rows": [
     {
@@ -557,7 +557,7 @@
     },
     {
       "CODIGO": "C2DM-80CP",
-      "STOCK": 4,
+      "STOCK": 3,
       "COSTO": 41,
       "VENTA": 61.5,
       "ORIGEN": "Remito"
@@ -627,7 +627,7 @@
     },
     {
       "CODIGO": "C2RM-F400CP",
-      "STOCK": 5,
+      "STOCK": 3,
       "COSTO": 41,
       "VENTA": 61.5,
       "ORIGEN": "Remito"
