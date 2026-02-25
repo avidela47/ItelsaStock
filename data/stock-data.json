@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-23T13:36:07.588Z",
+  "updatedAt": "2026-02-25T13:53:12.078Z",
   "total": 583,
   "rows": [
     {
@@ -929,8 +929,8 @@
     {
       "CODIGO": "DM-18TN",
       "STOCK": 3,
-      "COSTO": 1,
-      "VENTA": 1.5,
+      "COSTO": 160,
+      "VENTA": 240,
       "ORIGEN": ""
     },
     {
@@ -1825,8 +1825,8 @@
     {
       "CODIGO": "IS-08-A3-03",
       "STOCK": 4,
-      "COSTO": 1,
-      "VENTA": 1.5,
+      "COSTO": 36.66666667,
+      "VENTA": 55,
       "ORIGEN": ""
     },
     {
@@ -3981,8 +3981,8 @@
     {
       "CODIGO": "Z3R-400P",
       "STOCK": 14,
-      "COSTO": 1,
-      "VENTA": 1.5,
+      "COSTO": 58.66666667,
+      "VENTA": 88,
       "ORIGEN": ""
     },
     {
