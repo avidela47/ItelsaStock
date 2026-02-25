@@ -64,3 +64,8 @@ Si querés que Vercel regenere el JSON durante el build (útil si el Excel tambi
 
 - La columna `PRECIO` se muestra formateada como `U$D` con 2 decimales.
 - Si en tu Excel el nombre de columna para código no es exactamente `CODIGO`, ajustá el campo en `app.js` (función `handleSearchByCode`).
+
+npm run convert:json
+git add .
+git commit -m "Actualización de datos desde Excel a JSON"
+git push -u origin master
