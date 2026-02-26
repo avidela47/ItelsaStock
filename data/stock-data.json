@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T13:53:12.078Z",
+  "updatedAt": "2026-02-26T19:05:35.987Z",
   "total": 583,
   "rows": [
     {
@@ -634,9 +634,9 @@
     },
     {
       "CODIGO": "C2RM-F400P",
-      "STOCK": 4,
+      "STOCK": 2,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 61.5,
       "ORIGEN": ""
     },
     {
@@ -2538,7 +2538,7 @@
     },
     {
       "CODIGO": "LRS-100-12",
-      "STOCK": 417,
+      "STOCK": 416,
       "COSTO": 38.94,
       "VENTA": 58.41,
       "ORIGEN": "ML"
@@ -3476,7 +3476,7 @@
     },
     {
       "CODIGO": "V-61",
-      "STOCK": 13,
+      "STOCK": 12,
       "COSTO": 5.333333333,
       "VENTA": 8,
       "ORIGEN": "Remito"
@@ -3973,9 +3973,9 @@
     },
     {
       "CODIGO": "Z3R-400CP4",
-      "STOCK": 1,
+      "STOCK": "s/e",
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 88,
       "ORIGEN": ""
     },
     {
