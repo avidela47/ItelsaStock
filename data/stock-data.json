@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T16:21:44.544Z",
+  "updatedAt": "2026-03-03T15:48:39.444Z",
   "total": 583,
   "rows": [
     {
@@ -2566,7 +2566,7 @@
     },
     {
       "CODIGO": "LRS-150-15",
-      "STOCK": 11,
+      "STOCK": 10,
       "COSTO": 47.94,
       "VENTA": 71.91,
       "ORIGEN": "ML"
