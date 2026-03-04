@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-03T19:07:14.322Z",
+  "updatedAt": "2026-03-04T13:10:03.707Z",
   "total": 583,
   "rows": [
     {
@@ -61,8 +61,8 @@
     {
       "CODIGO": "08FD4B5Z",
       "STOCK": 13,
-      "COSTO": 11.16,
-      "VENTA": 16.74,
+      "COSTO": 11.33333333,
+      "VENTA": 17,
       "ORIGEN": "Remito"
     },
     {
@@ -432,8 +432,8 @@
     {
       "CODIGO": "BGS-ZL10CP",
       "STOCK": 5,
-      "COSTO": 162.3533333,
-      "VENTA": 243.53,
+      "COSTO": 140,
+      "VENTA": 210,
       "ORIGEN": "Remito"
     },
     {
