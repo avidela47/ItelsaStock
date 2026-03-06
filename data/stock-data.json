@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-04T17:54:05.283Z",
+  "updatedAt": "2026-03-06T15:17:44.395Z",
   "total": 583,
   "rows": [
     {
@@ -3014,9 +3014,9 @@
     },
     {
       "CODIGO": "NF-DK04",
-      "STOCK": 3,
+      "STOCK": 2,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 25,
       "ORIGEN": ""
     },
     {
@@ -3049,9 +3049,9 @@
     },
     {
       "CODIGO": "NF-TB01",
-      "STOCK": 4,
+      "STOCK": 3,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 25,
       "ORIGEN": ""
     },
     {
