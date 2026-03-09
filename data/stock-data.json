@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T18:47:25.983Z",
+  "updatedAt": "2026-03-09T11:38:26.823Z",
   "total": 583,
   "rows": [
     {
@@ -2517,7 +2517,7 @@
     },
     {
       "CODIGO": "LPV-20-12",
-      "STOCK": 2,
+      "STOCK": 1,
       "COSTO": 22.14,
       "VENTA": 33.21,
       "ORIGEN": "ML"
