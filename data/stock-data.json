@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T11:38:26.823Z",
+  "updatedAt": "2026-03-09T17:27:30.022Z",
   "total": 583,
   "rows": [
     {
@@ -146,7 +146,7 @@
       "CODIGO": "12FD5L5Z",
       "STOCK": 20,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 19,
       "ORIGEN": ""
     },
     {
