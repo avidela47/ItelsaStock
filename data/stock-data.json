@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T17:55:18.221Z",
+  "updatedAt": "2026-03-10T13:51:51.940Z",
   "total": 583,
   "rows": [
     {
@@ -61,8 +61,8 @@
     {
       "CODIGO": "08FD4B5Z",
       "STOCK": 13,
-      "COSTO": 11.33333333,
-      "VENTA": 17,
+      "COSTO": 13.33333333,
+      "VENTA": 20,
       "ORIGEN": "Remito"
     },
     {
