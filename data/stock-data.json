@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T13:51:51.940Z",
+  "updatedAt": "2026-03-11T13:44:23.461Z",
   "total": 583,
   "rows": [
     {
@@ -55,7 +55,7 @@
       "CODIGO": "08FD4A3Z",
       "STOCK": 21,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 20,
       "ORIGEN": ""
     },
     {
@@ -937,7 +937,7 @@
       "CODIGO": "DM-18TP",
       "STOCK": 3,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 248,
       "ORIGEN": ""
     },
     {
@@ -1854,7 +1854,7 @@
       "CODIGO": "IS-08-G1-S1",
       "STOCK": 10,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 46,
       "ORIGEN": ""
     },
     {
