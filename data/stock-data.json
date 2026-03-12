@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T15:28:44.130Z",
+  "updatedAt": "2026-03-12T18:55:26.034Z",
   "total": 583,
   "rows": [
     {
@@ -657,7 +657,7 @@
       "CODIGO": "C2RP-F400P",
       "STOCK": 1,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 80,
       "ORIGEN": ""
     },
     {
