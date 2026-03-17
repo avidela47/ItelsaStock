@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T15:27:03.529Z",
+  "updatedAt": "2026-03-17T17:54:13.989Z",
   "total": 583,
   "rows": [
     {
@@ -1798,7 +1798,7 @@
       "CODIGO": "IS-05-A1-03",
       "STOCK": 8,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 60,
       "ORIGEN": ""
     },
     {
