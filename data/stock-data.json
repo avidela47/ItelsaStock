@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-17T17:54:13.989Z",
+  "updatedAt": "2026-03-17T18:15:19.664Z",
   "total": 583,
   "rows": [
     {
@@ -2545,7 +2545,7 @@
     },
     {
       "CODIGO": "LRS-100-24",
-      "STOCK": 189,
+      "STOCK": 184,
       "COSTO": 37.08,
       "VENTA": 52,
       "ORIGEN": "ML"
