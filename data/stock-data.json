@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-18T17:59:20.323Z",
+  "updatedAt": "2026-03-20T19:22:28.925Z",
   "total": 583,
   "rows": [
     {
@@ -1860,8 +1860,8 @@
     {
       "CODIGO": "IS-08-G1-S2",
       "STOCK": 10,
-      "COSTO": 55.33333333,
-      "VENTA": 83,
+      "COSTO": 33.33333333,
+      "VENTA": 50,
       "ORIGEN": "Remito"
     },
     {
