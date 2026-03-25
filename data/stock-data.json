@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T11:51:01.109Z",
+  "updatedAt": "2026-03-25T16:18:03.150Z",
   "total": 583,
   "rows": [
     {
@@ -396,7 +396,7 @@
     },
     {
       "CODIGO": "BGS-Z10CP",
-      "STOCK": 4,
+      "STOCK": 1,
       "COSTO": 63.37,
       "VENTA": 95.055,
       "ORIGEN": "Remito"
