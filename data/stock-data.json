@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T14:07:39.084Z",
+  "updatedAt": "2026-04-06T18:04:46.904Z",
   "total": 583,
   "rows": [
     {
@@ -3217,10 +3217,10 @@
     },
     {
       "CODIGO": "RSP-1600-48",
-      "STOCK": 1,
+      "STOCK": "s/e",
       "COSTO": 1040.16,
-      "VENTA": 1560.24,
-      "ORIGEN": "ML"
+      "VENTA": 880,
+      "ORIGEN": ""
     },
     {
       "CODIGO": "RSP-200-24",
