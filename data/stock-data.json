@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T14:46:58.495Z",
+  "updatedAt": "2026-04-09T11:23:10.833Z",
   "total": 583,
   "rows": [
     {
@@ -2531,7 +2531,7 @@
     },
     {
       "CODIGO": "LPV-60-12",
-      "STOCK": 39,
+      "STOCK": 38,
       "COSTO": 35.28,
       "VENTA": 52.92,
       "ORIGEN": "ML"
@@ -2573,7 +2573,7 @@
     },
     {
       "CODIGO": "LRS-150-24",
-      "STOCK": 67,
+      "STOCK": 66,
       "COSTO": 42.20666667,
       "VENTA": 63.31,
       "ORIGEN": "Remito"
