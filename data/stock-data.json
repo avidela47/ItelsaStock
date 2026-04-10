@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T13:25:49.484Z",
+  "updatedAt": "2026-04-10T17:04:19.830Z",
   "total": 583,
   "rows": [
     {
@@ -277,9 +277,9 @@
     },
     {
       "CODIGO": "BGS-2V100CP",
-      "STOCK": 8,
+      "STOCK": 6,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 55,
       "ORIGEN": ""
     },
     {
