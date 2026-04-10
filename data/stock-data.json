@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T12:02:39.678Z",
+  "updatedAt": "2026-04-10T13:25:49.484Z",
   "total": 583,
   "rows": [
     {
@@ -2503,7 +2503,7 @@
     },
     {
       "CODIGO": "LPV-100-24",
-      "STOCK": 15,
+      "STOCK": 14,
       "COSTO": 57.9,
       "VENTA": 86.85,
       "ORIGEN": "ML"
