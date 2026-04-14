@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T16:39:12.868Z",
+  "updatedAt": "2026-04-14T17:17:28.287Z",
   "total": 583,
   "rows": [
     {
@@ -2622,9 +2622,9 @@
     },
     {
       "CODIGO": "LRS-350-24",
-      "STOCK": 196,
+      "STOCK": 195,
       "COSTO": 80.52,
-      "VENTA": 120.78,
+      "VENTA": 81,
       "ORIGEN": "ML"
     },
     {
