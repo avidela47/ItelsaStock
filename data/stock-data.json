@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T17:17:28.287Z",
+  "updatedAt": "2026-04-15T18:17:28.982Z",
   "total": 583,
   "rows": [
     {
@@ -935,9 +935,9 @@
     },
     {
       "CODIGO": "DM-18TP",
-      "STOCK": 3,
+      "STOCK": 2,
       "COSTO": 1,
-      "VENTA": 248,
+      "VENTA": 250,
       "ORIGEN": ""
     },
     {
@@ -3091,9 +3091,9 @@
     },
     {
       "CODIGO": "PRK 18/24DL.46",
-      "STOCK": 2,
+      "STOCK": "s/e",
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 1864.1,
       "ORIGEN": ""
     },
     {
