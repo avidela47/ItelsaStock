@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T17:09:43.840Z",
+  "updatedAt": "2026-04-20T18:20:51.412Z",
   "total": 583,
   "rows": [
     {
@@ -432,8 +432,8 @@
     {
       "CODIGO": "BGS-ZL10CP",
       "STOCK": 5,
-      "COSTO": 100,
-      "VENTA": 150,
+      "COSTO": 140,
+      "VENTA": 210,
       "ORIGEN": "Remito"
     },
     {
@@ -867,7 +867,7 @@
       "CODIGO": "D1RF-T",
       "STOCK": 1,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 98.85,
       "ORIGEN": ""
     },
     {
@@ -1812,7 +1812,7 @@
       "CODIGO": "IS-08-A1-S2",
       "STOCK": 1,
       "COSTO": 1,
-      "VENTA": 53.2,
+      "VENTA": 60,
       "ORIGEN": ""
     },
     {
@@ -2580,7 +2580,7 @@
     },
     {
       "CODIGO": "LRS-200-12",
-      "STOCK": 29,
+      "STOCK": 28,
       "COSTO": 64.2,
       "VENTA": 96.3,
       "ORIGEN": "ML"
@@ -2700,8 +2700,8 @@
     {
       "CODIGO": "MDR-60-24",
       "STOCK": 2,
-      "COSTO": 43.33333333,
-      "VENTA": 65,
+      "COSTO": 30,
+      "VENTA": 45,
       "ORIGEN": "Remito"
     },
     {
@@ -2903,8 +2903,8 @@
     {
       "CODIGO": "NDR-240-48",
       "STOCK": 4,
-      "COSTO": 83.33333333,
-      "VENTA": 125,
+      "COSTO": 77.33333333,
+      "VENTA": 116,
       "ORIGEN": "Remito"
     },
     {
