@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-04-24T12:25:34.388Z",
-  "total": 583,
+  "updatedAt": "2026-04-24T13:18:11.603Z",
+  "total": 606,
   "rows": [
     {
       "CODIGO": "08FA3A5Z",
       "STOCK": 13,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 20,
       "ORIGEN": ""
     },
     {
       "CODIGO": "08FA3N3Z",
       "STOCK": 32,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 20,
       "ORIGEN": ""
     },
     {
       "CODIGO": "08FA3N5Z",
       "STOCK": 10,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 20,
       "ORIGEN": ""
     },
     {
       "CODIGO": "08FA4A5Z",
       "STOCK": 13,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 20,
       "ORIGEN": ""
     },
     {
       "CODIGO": "08FC-4000-S",
       "STOCK": 11,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 20,
       "ORIGEN": ""
     },
     {
       "CODIGO": "08FD3A5Z",
       "STOCK": 13,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 20,
       "ORIGEN": ""
     },
     {
       "CODIGO": "08FD4A10",
       "STOCK": 2,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 20,
       "ORIGEN": ""
     },
     {
@@ -69,28 +69,28 @@
       "CODIGO": "08FD4N5Z",
       "STOCK": 15,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 20,
       "ORIGEN": ""
     },
     {
       "CODIGO": "08MC3000-S",
       "STOCK": 15,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 20,
       "ORIGEN": ""
     },
     {
       "CODIGO": "08MC4000-S",
       "STOCK": 29,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 20,
       "ORIGEN": ""
     },
     {
       "CODIGO": "12FA4A3Z",
       "STOCK": 16,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 22,
       "ORIGEN": ""
     },
     {
@@ -111,70 +111,70 @@
       "CODIGO": "12FA4L3Z",
       "STOCK": 19,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 22,
       "ORIGEN": ""
     },
     {
       "CODIGO": "12FB5000",
       "STOCK": 3,
-      "COSTO": 10.24,
-      "VENTA": 15.36,
+      "COSTO": 14.66666667,
+      "VENTA": 22,
       "ORIGEN": "Remito"
     },
     {
       "CODIGO": "12FC4000",
       "STOCK": 10,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 22,
       "ORIGEN": ""
     },
     {
       "CODIGO": "12FC5000",
       "STOCK": 7,
-      "COSTO": 10,
-      "VENTA": 15,
+      "COSTO": 14.66666667,
+      "VENTA": 22,
       "ORIGEN": "Remito"
     },
     {
       "CODIGO": "12FD4B5Z",
       "STOCK": 13,
-      "COSTO": 12.66666667,
-      "VENTA": 19,
+      "COSTO": 14.66666667,
+      "VENTA": 22,
       "ORIGEN": "Remito"
     },
     {
       "CODIGO": "12FD5L5Z",
       "STOCK": 12,
       "COSTO": 1,
-      "VENTA": 19,
+      "VENTA": 22,
       "ORIGEN": ""
     },
     {
       "CODIGO": "12MB4000",
       "STOCK": 37,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 22,
       "ORIGEN": ""
     },
     {
       "CODIGO": "12MB5000",
       "STOCK": 15,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 22,
       "ORIGEN": ""
     },
     {
       "CODIGO": "12MC4000",
       "STOCK": 13,
-      "COSTO": 10,
-      "VENTA": 15,
+      "COSTO": 14.66666667,
+      "VENTA": 22,
       "ORIGEN": "Remito"
     },
     {
       "CODIGO": "12MC5000",
       "STOCK": 10,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 22,
       "ORIGEN": ""
     },
     {
@@ -1846,29 +1846,29 @@
     {
       "CODIGO": "IS-08-G1-03",
       "STOCK": 9,
-      "COSTO": 37.24,
-      "VENTA": 55.86,
-      "ORIGEN": "Remito"
+      "COSTO": 32.66666667,
+      "VENTA": 49,
+      "ORIGEN": ""
     },
     {
       "CODIGO": "IS-08-G1-S1",
       "STOCK": 10,
       "COSTO": 1,
-      "VENTA": 46,
+      "VENTA": 49,
       "ORIGEN": ""
     },
     {
       "CODIGO": "IS-08-G1-S2",
       "STOCK": 7,
-      "COSTO": 33.33333333,
-      "VENTA": 50,
+      "COSTO": 32.66666667,
+      "VENTA": 49,
       "ORIGEN": "Remito"
     },
     {
       "CODIGO": "IS-08-G3-03",
       "STOCK": 7,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 49,
       "ORIGEN": ""
     },
     {
@@ -2155,15 +2155,15 @@
       "CODIGO": "IS-18-H5-03",
       "STOCK": 10,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 50,
       "ORIGEN": ""
     },
     {
       "CODIGO": "IS-18-H5-S2",
       "STOCK": 7,
-      "COSTO": 26.13333333,
-      "VENTA": 39.2,
-      "ORIGEN": "Remito"
+      "COSTO": 33.33333333,
+      "VENTA": 50,
+      "ORIGEN": ""
     },
     {
       "CODIGO": "IS-18-H6-03",
@@ -3364,7 +3364,7 @@
     },
     {
       "CODIGO": "SR AL42ALK-A01N",
-      "STOCK": 1,
+      "STOCK": "s/e",
       "COSTO": 90,
       "VENTA": 135,
       "ORIGEN": "Remito"
@@ -4081,6 +4081,167 @@
       "STOCK": 4,
       "COSTO": 1,
       "VENTA": 1.5,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "12FD4L5Z",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 18.5,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "BGS-2V100CP",
+      "STOCK": 6,
+      "COSTO": 1,
+      "VENTA": 55,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "CS MP202M0",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 1455,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "D1RF-T",
+      "STOCK": 1,
+      "COSTO": 1,
+      "VENTA": 98.85,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "D2GF-2TP",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 127.5,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "E40S610003T24",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 251.15,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "ERB-A-19S-06/06",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 55.72,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "FS 3098D024",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 360,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "HDR-30-24",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 33.96,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "IS-12-G5-03",
+      "STOCK": 11,
+      "COSTO": 1,
+      "VENTA": 43,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "IS-12-G6-03",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 43,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "LE55C/LG-200M12",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 764.73,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "LS55C/8X-200M12",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 712.35,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "MVS-C5S",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 469.13,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "NA B110BB-DN1",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 88.5,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "NF-DB01",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 26.35,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "PRK18/24DL46",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 1864.1,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "PRK18BT2/PX-M12",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 1437.27,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "RSP-3000-48",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 1250.64,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "TKS 100X100",
+      "STOCK": "S/E",
+      "COSTO": 1,
+      "VENTA": 74.77,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "XTR-480-24",
+      "STOCK": 3,
+      "COSTO": 1,
+      "VENTA": 253.2,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "HDR-15-5",
+      "STOCK": 1,
+      "COSTO": 1,
+      "VENTA": 32.13,
+      "ORIGEN": ""
+    },
+    {
+      "CODIGO": "Z3T-2500CP4",
+      "STOCK": 5,
+      "COSTO": 1,
+      "VENTA": 79,
       "ORIGEN": ""
     }
   ]
