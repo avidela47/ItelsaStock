@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-24T13:18:11.603Z",
-  "total": 606,
+  "updatedAt": "2026-04-27T18:17:43.470Z",
+  "total": 605,
   "rows": [
     {
       "CODIGO": "08FA3A5Z",
@@ -410,7 +410,7 @@
     },
     {
       "CODIGO": "BGS-Z10P",
-      "STOCK": 7,
+      "STOCK": 5,
       "COSTO": 63.37,
       "VENTA": 95.055,
       "ORIGEN": "Remito"
@@ -557,7 +557,7 @@
     },
     {
       "CODIGO": "C2DM-80CP",
-      "STOCK": 2,
+      "STOCK": 1,
       "COSTO": 41,
       "VENTA": 61.5,
       "ORIGEN": "Remito"
@@ -627,7 +627,7 @@
     },
     {
       "CODIGO": "C2RM-F400CP",
-      "STOCK": 2,
+      "STOCK": 1,
       "COSTO": 41,
       "VENTA": 61.5,
       "ORIGEN": "Remito"
@@ -1824,7 +1824,7 @@
     },
     {
       "CODIGO": "IS-08-A3-03",
-      "STOCK": 4,
+      "STOCK": 2,
       "COSTO": 36.66666667,
       "VENTA": 55,
       "ORIGEN": ""
@@ -1846,8 +1846,8 @@
     {
       "CODIGO": "IS-08-G1-03",
       "STOCK": 9,
-      "COSTO": 32.66666667,
-      "VENTA": 49,
+      "COSTO": 37.24,
+      "VENTA": 55.86,
       "ORIGEN": ""
     },
     {
@@ -1950,9 +1950,9 @@
     },
     {
       "CODIGO": "IS-12-A9-S2",
-      "STOCK": 10,
+      "STOCK": 8,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 75,
       "ORIGEN": ""
     },
     {
@@ -2008,12 +2008,12 @@
       "CODIGO": "IS-12-E9-03",
       "STOCK": 2,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 75,
       "ORIGEN": ""
     },
     {
       "CODIGO": "IS-12-G5-03",
-      "STOCK": 11,
+      "STOCK": 9,
       "COSTO": 1,
       "VENTA": 43,
       "ORIGEN": ""
@@ -2867,7 +2867,7 @@
     },
     {
       "CODIGO": "NA B110BB-DN2",
-      "STOCK": 2,
+      "STOCK": "s/e",
       "COSTO": 59,
       "VENTA": 88.5,
       "ORIGEN": "Remito"
@@ -3365,8 +3365,8 @@
     {
       "CODIGO": "SR AL42ALK-A01N",
       "STOCK": "s/e",
-      "COSTO": 90,
-      "VENTA": 135,
+      "COSTO": 120.6666667,
+      "VENTA": 181,
       "ORIGEN": "Remito"
     },
     {
@@ -3855,8 +3855,8 @@
     {
       "CODIGO": "VR-1000T",
       "STOCK": "s/e",
-      "COSTO": 66.66666667,
-      "VENTA": 100,
+      "COSTO": 99.4,
+      "VENTA": 149.1,
       "ORIGEN": "Ruben"
     },
     {
@@ -4155,7 +4155,7 @@
     },
     {
       "CODIGO": "IS-12-G6-03",
-      "STOCK": "S/E",
+      "STOCK": 10,
       "COSTO": 1,
       "VENTA": 43,
       "ORIGEN": ""
@@ -4179,13 +4179,6 @@
       "STOCK": "S/E",
       "COSTO": 1,
       "VENTA": 469.13,
-      "ORIGEN": ""
-    },
-    {
-      "CODIGO": "NA B110BB-DN1",
-      "STOCK": "S/E",
-      "COSTO": 1,
-      "VENTA": 88.5,
       "ORIGEN": ""
     },
     {
