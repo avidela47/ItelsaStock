@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T18:28:31.084Z",
+  "updatedAt": "2026-04-29T16:16:40.502Z",
   "total": 605,
   "rows": [
     {
@@ -137,7 +137,7 @@
     },
     {
       "CODIGO": "12FD4B5Z",
-      "STOCK": 13,
+      "STOCK": 12,
       "COSTO": 14.66666667,
       "VENTA": 22,
       "ORIGEN": "Remito"
@@ -216,7 +216,7 @@
       "CODIGO": "APV-25-12",
       "STOCK": 6,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 25,
       "ORIGEN": ""
     },
     {
