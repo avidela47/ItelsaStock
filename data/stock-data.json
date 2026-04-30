@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T16:16:40.502Z",
+  "updatedAt": "2026-04-30T12:45:36.843Z",
   "total": 605,
   "rows": [
     {
@@ -2867,7 +2867,7 @@
     },
     {
       "CODIGO": "NA B110BB-DN2",
-      "STOCK": "s/e",
+      "STOCK": 1,
       "COSTO": 59,
       "VENTA": 88.5,
       "ORIGEN": "Remito"
@@ -3854,7 +3854,7 @@
     },
     {
       "CODIGO": "VR-1000T",
-      "STOCK": "s/e",
+      "STOCK": 2,
       "COSTO": 99.4,
       "VENTA": 149.1,
       "ORIGEN": "Ruben"
@@ -4155,7 +4155,7 @@
     },
     {
       "CODIGO": "IS-12-G6-03",
-      "STOCK": 10,
+      "STOCK": 12,
       "COSTO": 1,
       "VENTA": 43,
       "ORIGEN": ""
