@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T12:45:36.843Z",
+  "updatedAt": "2026-05-04T14:49:50.955Z",
   "total": 605,
   "rows": [
     {
@@ -279,35 +279,35 @@
       "CODIGO": "BGS-2V100CP",
       "STOCK": 6,
       "COSTO": 1,
-      "VENTA": 55,
+      "VENTA": 59,
       "ORIGEN": ""
     },
     {
       "CODIGO": "BGS-2V100N",
       "STOCK": 1,
-      "COSTO": 38.15333333,
-      "VENTA": 57.23,
+      "COSTO": 37.33333333,
+      "VENTA": 56,
       "ORIGEN": "Remito"
     },
     {
       "CODIGO": "BGS-2V100P",
       "STOCK": 2,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 56,
       "ORIGEN": ""
     },
     {
       "CODIGO": "BGS-2V50CP",
       "STOCK": 6,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 59,
       "ORIGEN": ""
     },
     {
       "CODIGO": "BGS-2V50P",
       "STOCK": 13,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 56,
       "ORIGEN": ""
     },
     {
@@ -4038,7 +4038,7 @@
       "CODIGO": "ZR-L1000CP",
       "STOCK": 1,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 160.6,
       "ORIGEN": ""
     },
     {
