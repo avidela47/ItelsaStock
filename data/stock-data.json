@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T14:49:50.955Z",
+  "updatedAt": "2026-05-05T11:28:29.090Z",
   "total": 605,
   "rows": [
     {
@@ -935,7 +935,7 @@
     },
     {
       "CODIGO": "DM-18TP",
-      "STOCK": 2,
+      "STOCK": 1,
       "COSTO": 1,
       "VENTA": 250,
       "ORIGEN": ""
@@ -2699,7 +2699,7 @@
     },
     {
       "CODIGO": "MDR-60-24",
-      "STOCK": 2,
+      "STOCK": "s/e",
       "COSTO": 30,
       "VENTA": 45,
       "ORIGEN": "Remito"
