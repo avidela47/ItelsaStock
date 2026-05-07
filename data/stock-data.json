@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T12:59:36.567Z",
+  "updatedAt": "2026-05-07T17:15:49.846Z",
   "total": 605,
   "rows": [
     {
@@ -53,7 +53,7 @@
     },
     {
       "CODIGO": "08FD4A3Z",
-      "STOCK": 21,
+      "STOCK": 11,
       "COSTO": 1,
       "VENTA": 20,
       "ORIGEN": ""
@@ -368,7 +368,7 @@
     },
     {
       "CODIGO": "BGS-S08P",
-      "STOCK": 2,
+      "STOCK": 1,
       "COSTO": 76.66666667,
       "VENTA": 115,
       "ORIGEN": "Remito"
@@ -935,7 +935,7 @@
     },
     {
       "CODIGO": "DM-18TP",
-      "STOCK": 1,
+      "STOCK": 2,
       "COSTO": 1,
       "VENTA": 250,
       "ORIGEN": ""
@@ -1845,14 +1845,14 @@
     },
     {
       "CODIGO": "IS-08-G1-03",
-      "STOCK": 9,
+      "STOCK": 7,
       "COSTO": 37.24,
       "VENTA": 55.86,
       "ORIGEN": ""
     },
     {
       "CODIGO": "IS-08-G1-S1",
-      "STOCK": 10,
+      "STOCK": 6,
       "COSTO": 1,
       "VENTA": 49,
       "ORIGEN": ""
@@ -2153,7 +2153,7 @@
     },
     {
       "CODIGO": "IS-18-H5-03",
-      "STOCK": 10,
+      "STOCK": 5,
       "COSTO": 1,
       "VENTA": 50,
       "ORIGEN": ""
