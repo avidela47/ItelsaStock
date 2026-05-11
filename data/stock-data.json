@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T17:15:49.846Z",
+  "updatedAt": "2026-05-11T17:43:10.406Z",
   "total": 605,
   "rows": [
     {
@@ -1895,9 +1895,9 @@
     {
       "CODIGO": "IS-12-A1-03",
       "STOCK": 3,
-      "COSTO": 29.17333333,
-      "VENTA": 43.76,
-      "ORIGEN": "Remito"
+      "COSTO": 34.66666667,
+      "VENTA": 52,
+      "ORIGEN": ""
     },
     {
       "CODIGO": "IS-12-A1-S2",
@@ -1952,7 +1952,7 @@
       "CODIGO": "IS-12-A9-S2",
       "STOCK": 8,
       "COSTO": 1,
-      "VENTA": 75,
+      "VENTA": 52,
       "ORIGEN": ""
     },
     {
@@ -2008,7 +2008,7 @@
       "CODIGO": "IS-12-E9-03",
       "STOCK": 2,
       "COSTO": 1,
-      "VENTA": 75,
+      "VENTA": 52,
       "ORIGEN": ""
     },
     {
@@ -2155,14 +2155,14 @@
       "CODIGO": "IS-18-H5-03",
       "STOCK": 5,
       "COSTO": 1,
-      "VENTA": 50,
+      "VENTA": 63,
       "ORIGEN": ""
     },
     {
       "CODIGO": "IS-18-H5-S2",
       "STOCK": 7,
-      "COSTO": 33.33333333,
-      "VENTA": 50,
+      "COSTO": 42,
+      "VENTA": 63,
       "ORIGEN": ""
     },
     {
@@ -4148,9 +4148,9 @@
     },
     {
       "CODIGO": "IS-12-G5-03",
-      "STOCK": 11,
+      "STOCK": 9,
       "COSTO": 1,
-      "VENTA": 43,
+      "VENTA": 52,
       "ORIGEN": ""
     },
     {
