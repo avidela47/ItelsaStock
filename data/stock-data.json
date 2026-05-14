@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T15:20:32.026Z",
+  "updatedAt": "2026-05-14T18:20:45.689Z",
   "total": 605,
   "rows": [
     {
@@ -543,9 +543,9 @@
     },
     {
       "CODIGO": "C2DM-40CP",
-      "STOCK": 4,
-      "COSTO": 51.38,
-      "VENTA": 77.07,
+      "STOCK": 3,
+      "COSTO": 41,
+      "VENTA": 61.5,
       "ORIGEN": "Remito"
     },
     {
@@ -557,14 +557,14 @@
     },
     {
       "CODIGO": "C2DM-80CP",
-      "STOCK": 1,
+      "STOCK": "s/e",
       "COSTO": 41,
       "VENTA": 61.5,
       "ORIGEN": "Remito"
     },
     {
       "CODIGO": "C2DM-80P",
-      "STOCK": 5,
+      "STOCK": "s/e",
       "COSTO": 40,
       "VENTA": 60,
       "ORIGEN": "Remito"
