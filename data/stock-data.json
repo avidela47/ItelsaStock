@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T13:56:40.476Z",
+  "updatedAt": "2026-05-15T15:51:27.727Z",
   "total": 605,
   "rows": [
     {
@@ -3987,9 +3987,9 @@
     },
     {
       "CODIGO": "Z3R-Q200CP4",
-      "STOCK": 1,
+      "STOCK": "s/e",
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 98.25,
       "ORIGEN": ""
     },
     {
