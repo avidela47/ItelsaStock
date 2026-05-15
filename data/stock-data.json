@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-15T16:14:11.392Z",
-  "total": 605,
+  "updatedAt": "2026-05-15T19:11:03.690Z",
+  "total": 604,
   "rows": [
     {
       "CODIGO": "08FA3A5Z",
@@ -1322,7 +1322,7 @@
       "CODIGO": "E40S6-100-3-T-24",
       "STOCK": 1,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 90,
       "ORIGEN": ""
     },
     {
@@ -3099,8 +3099,8 @@
     {
       "CODIGO": "PRK 18B-T2/4P-M12",
       "STOCK": 2,
-      "COSTO": 527.5866667,
-      "VENTA": 791.38,
+      "COSTO": 958.18,
+      "VENTA": 1437.27,
       "ORIGEN": "Remito"
     },
     {
@@ -4157,7 +4157,7 @@
       "CODIGO": "IS-12-G6-03",
       "STOCK": 12,
       "COSTO": 1,
-      "VENTA": 43,
+      "VENTA": 52,
       "ORIGEN": ""
     },
     {
@@ -4186,13 +4186,6 @@
       "STOCK": "S/E",
       "COSTO": 1,
       "VENTA": 26.35,
-      "ORIGEN": ""
-    },
-    {
-      "CODIGO": "PRK18/24DL46",
-      "STOCK": "S/E",
-      "COSTO": 1,
-      "VENTA": 1864.1,
       "ORIGEN": ""
     },
     {
