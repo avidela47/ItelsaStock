@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T19:11:03.690Z",
+  "updatedAt": "2026-05-15T19:52:47.863Z",
   "total": 604,
   "rows": [
     {
@@ -4080,7 +4080,7 @@
       "CODIGO": "ZT-L3000P",
       "STOCK": 4,
       "COSTO": 1,
-      "VENTA": 1.5,
+      "VENTA": 250,
       "ORIGEN": ""
     },
     {
